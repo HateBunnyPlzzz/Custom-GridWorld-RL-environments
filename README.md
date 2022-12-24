@@ -8,7 +8,7 @@ The Gridworld problem stated below is solved using a simple Q-Learning epsilon-g
 
 ![A Beginners Guide to Q-Learning. Model-Free Reinforcement Learning | by  Chathurangi Shyalika | Towards Data Science](https://miro.medium.com/max/1400/1*EQ-tDj-iMdsHlGKUR81Xgw.png)
 
-```pyth
+```python
 """ Gridworld
     with 2 magic squares that cause the agent to teleport accross the board
     purpose of this is to make the agent learn about the shortcut.
