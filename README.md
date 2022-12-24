@@ -6,5 +6,6 @@ The Gridworld problem stated below is solved using a simple Q-Learning epsilon-g
 
 ### Q-Learning DP Update rule:
 
-![[Pasted image 20221224192555.png]]
+![A Beginners Guide to Q-Learning. Model-Free Reinforcement Learning | by  Chathurangi Shyalika | Towards Data Science](https://miro.medium.com/max/1400/1*EQ-tDj-iMdsHlGKUR81Xgw.png)
+
 
